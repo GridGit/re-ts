@@ -1,0 +1,37 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1594569880059'); /* IE9 */
+  src: url('iconfont.eot?t=1594569880059#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARMAAsAAAAACcAAAAP+AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqGJIUgATYCJAMYCw4ABCAFhG0HZRtjCMgOJQUGBgUAgAFA8Hzl1Pd3V4osKWHZBcIrIsstpwwnBDp2Rinfeuz4z7n3MwiTuzlCsPntK1CyNB2zJCN3njWQmtqEm9zs/tjP1el17fra5j2JWhLTtPvxx4knEkdoIl45SqBCKMuEUlmGd6I6uRtPQwCXEhTibtZicNIVwoBOEkDGjZaxK5SwYSoqBQfBLrjSIOuxcNRK9QxY5/2+/KKOOKCwNOhZnUZ0ia7WKCi4q8NUSD+9SdifBxCuAw1Uw4UBmVfom4E3SFbDi6v9BR9tcOHjoDBREJWLakSfCu6mUpBQoZDg4yRo1Lr+8SwQG0bn08R2KQuiwOJAQ1SOAwVRDQ4Eok8cGCi4a8OiTXaP7dm4xAWpTRPLHeNgISgkC70n7rp5WX5Ojj/WP74hkrzppa+6joTXBukIKxi1kyv5N0wSaTBUPdfT3GQYN1w//5rn+mAdYQWjJG3QbhoGaRD0O83MzxsUOX5VTO157XmD9188elKsvTdG5W+N623bPE8NDje7PfTMqi1037ovLwxuvw/fNdrMlv2Jux+TH7rt3FcoDE6HtTazY3/Rs8m5XSanR6cmx2amJqb16OWOQG3Zl+fm74zrrYlEVwMzW5w76eyApCUPBpPPw4YpipcpbqH1u1eQhnJoDcvQ843XDdufiZaKbUjMPy+brXqodNkt4fl5s58qt4f3/1uD2FWnh3Mdm6d6DB2O/Rx1gpzhPLqvE0cPZabV75a/dkoJT1YFMw8d3Vk9/74jB9BfMar2lDKPkX+05zZ1zky8+hf12+fQbeHcw5vYA7/6+sn+h1e0dGmdX5NPZWjh5PT9qe1s/e17WDWjTUbBQ/+L8mjEBaT+66NaAHRVdRRAPVRJSN3WG3XDP207ZJ9usWpgZuM/xzMAfK3d/ZJtSoUGHcLvogcs/6/kwCGjK5HdNupg60gEsAlx4AXthosL/E2hHL77MgRgEoghiECRRnHQOJTDGmI1sPCoBzYODcGlKj3Xe+TC8CImBlRhjwIhiytQZHATNFm8YA3xCyzi/IBNlmhw6SHZO3pUkNFuxxTAHESUW0KqQCyJOHnErxwH2TEwiys9+jQwW42gshq10pkesID1cY49L5dzLiGJERN1U88DwyCIMqKBwIsVzml9Sc0RRZ9ULBDTFaEpDADDAUQQOZZAqAgQLCRnNCeS+flxABkHAwyrGKiJTwMwbNS9I8oophSA7dFZoIFz2d9mHplyOByJPU6CQTBBdNMewMBJAoIWH6YBCHCKUVrEKfWUMEgSVFc8vsG8yhuAC/qwLUq0GLHEljScOdNVESsOjovTiQkqVw/jrKL0EGyDoVpQJBjEdi6ii3462LHBR8fhJZcLAAA=') format('woff2'),
+  url('iconfont.woff?t=1594569880059') format('woff'),
+  url('iconfont.ttf?t=1594569880059') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1594569880059#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuidahua:before {
+  content: "\e62e";
+}
+
+.icon-duomeitiicon-:before {
+  content: "\e624";
+}
+
+.icon-baseline-close-px:before {
+  content: "\e615";
+}
+
+.icon-pause:before {
+  content: "\e6d8";
+}
+
+.icon-play:before {
+  content: "\e7c3";
+}
+

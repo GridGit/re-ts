@@ -1,0 +1,44 @@
+{
+  "id": "1939176",
+  "name": "video",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "538896",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6239263",
+      "name": "音量",
+      "font_class": "duomeitiicon-",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7826085",
+      "name": "close",
+      "font_class": "baseline-close-px",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12578909",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "929688",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    }
+  ]
+}
